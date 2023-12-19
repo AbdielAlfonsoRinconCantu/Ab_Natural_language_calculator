@@ -1,29 +1,32 @@
-**Description**  
-This program solves arithmetic operations inputted in natural language by the user using python's math module.
+# Natural language calculator #
+This program solves arithmetic operations entered in natural language by the user using python's math module.  
 
-**Features**  
+## **Features** ##  
 - Accepts natural language format.
 - Supports math functions such as log, ln, sqrt, sin, cos, tan, e, pi and cbrt.
 - Handles math and syntax errors.
 
-**Structure**  
-- Global: the calculate_expression function calculates the result of the user input after translating the input to python.
-- Main: prompts the user to enter an operation or exit, this input is processed by the calculate_expression function.
+## Requirements ##
+- Python.
 
-**How to use**  
+## **How to use** ##  
 1. Clone the repository or download the "Ab_NLC_1.0" module.
 2. Import the module into your Python project.
 3. Utilize the calculate_expression() function to perform calculations.
 4. Run the main program to interactively use the natural language calculator.
 
-**Notes**  
+## **Notes** ##  
 - Ensure valid operation inputs.
 - Avoid using unsafe inputs for the eval() function.
 
-**Contributors**  
+## **How it works** ##  
+- Global: the calculate_expression function calculates the result of the user input after translating the input to python.
+- Main: prompts the user to enter an operation or exit, this input is processed by the calculate_expression function.
+
+## **Contributors** ##  
 - Abdiel Alfonso Rincon Cantu
 
-**License**  
+## **License** ##  
 MIT License
 
 Copyright (c) 2023 Abdiel Alfonso Rincon Cantu
