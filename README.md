@@ -8,6 +8,7 @@ This program solves arithmetic operations entered in natural language by the use
 
 ## Requirements ##
 - Python.
+- Python's math module.
 
 ## **How to use** ##  
 1. Clone the repository or download the "Ab_NLC_1.0" module.
